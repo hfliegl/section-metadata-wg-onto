@@ -27,6 +27,11 @@ GitHub Epic: https://github.com/nfdi-de/section-metadata-wg-onto/issues/30
 - [Chemotion KG](https://ditrare.ise.fiz-karlsruhe.de/chemotion-kg/shmarql/)
   provided using shmarql (NFDICore ontology is used)
 - to be completed ...
+- [KGI4NFDI Knowledge Graph Registry](https://kgi.services.base4nfdi.de/kg_registry/)
+
+## Available Knowledge Graphs
+
+The KGI4NFDI base service has a registry at https://github.com/KGI4NFDI/kgi4nfdi_registry_data.
 
 ## Use Case [1]: Bridging NFDI4Culture / NFDI4Chem Knowledge Graphs
 
