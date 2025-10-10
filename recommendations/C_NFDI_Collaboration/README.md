@@ -21,7 +21,7 @@ GitHub Epic: https://github.com/nfdi-de/section-metadata-wg-onto/issues/30
 - NFDI4Objects to be added
 - NFDI4Cat to be added
 - FAIRMAT to be added
-- NFDI4Ing to be added
+- NFDI4Ing to be added (https://ingest.nfdi4ing.de/api/v1/sparql)
 - [GESIS KG](https://data.gesis.org/gesiskg/sparql) (NFDICore ontology is used)
 - [ORKG](https://orkg.org/triplestore)
 - [Chemotion KG](https://ditrare.ise.fiz-karlsruhe.de/chemotion-kg/shmarql/)
